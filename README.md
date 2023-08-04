@@ -8,4 +8,5 @@ Small-Scale Business:
 <img width="563" alt="image" src="https://github.com/aaltam6/Cloud-Architecture-Case-Study/assets/87050733/b47e883f-c89b-4e17-bc0f-a1c059acdaa6">
 
 Large-Scale Business:
+
 <img width="604" alt="image" src="https://github.com/aaltam6/Cloud-Architecture-Case-Study/assets/87050733/44c03c7c-7e30-44c1-b7d6-5be6023a5298">
