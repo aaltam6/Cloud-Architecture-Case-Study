@@ -1,4 +1,4 @@
-# Cloud-Architecture-Case-Study
+# Cloud Architecture Case Study
 A case study in which a sample network topology and corresponding documentation must be created for a small and medium size company. Prepared as part of the coursework for ISDS 4130
 
 This course was one of my favorites, and I took a lot of effort and pride in creating this case.
